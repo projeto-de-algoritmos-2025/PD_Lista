@@ -23,6 +23,7 @@ Este repositório contém as soluções desenvolvidas para a Lista 5 da discipli
 
 ### 🧠 Conteúdo Abordado
 
+Programação Dinâmica (PD) é uma técnica de otimização usada para resolver problemas complexos dividindo-os em subproblemas menores e reutilizando os resultados já calculados (memorização), evitando repetições desnecessárias.
 
 ## 🖼️ Screenshots
 
