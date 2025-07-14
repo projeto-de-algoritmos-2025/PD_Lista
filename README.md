@@ -30,13 +30,13 @@ Este repositório contém as soluções desenvolvidas para a Lista 5 da discipli
 <img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q1_S.png" alt="Q1" width="600"/>
 
 ### Questão 2
-<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q2_S.png" alt="Q2" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Imagens/Q2_S.png?raw=true" alt="Q2" width="600"/>
 
 ### Questão 3
-<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q4_S.png" alt="Q3" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Imagens/Q3_S.png?raw=true" alt="Q3" width="600"/>
 
 ### Questão 4
-<img src="" alt="Q4" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Imagens/Q4_S.png?raw=true" alt="Q4" width="600"/>
 
 ## ⚙️ Instalação
 
