@@ -33,7 +33,7 @@ Este repositório contém as soluções desenvolvidas para a Lista 5 da discipli
 <img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q2_S.png" alt="Q2" width="600"/>
 
 ### Questão 3
-<img src="" alt="Q3" width="600"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/DC_Questoes/blob/main/Imagens/Q3_S.png" alt="Q3" width="600"/>
 
 ### Questão 4
 <img src="" alt="Q4" width="600"/>
@@ -68,6 +68,7 @@ Este repositório contém as soluções desenvolvidas para a Lista 5 da discipli
 | ------------------| ----------------------- | ----------------------- |
 | [Questão 1](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Questoes/Questao1.md)| [Solução 1](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Solucoes/Questao1.py)| Difícil |
 | [Questão 2](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Questoes/Questao2.md)| [Solução 2](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Solucoes/Questao2.py)| Medium |
+| [Questão 3](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Questoes/Questao3.md)| [Solução 3](https://github.com/projeto-de-algoritmos-2025/PD_Lista/blob/main/Solucoes/Questao3.py)| Difícil |
 
 <p align="center">
   <sub>Fonte: <a href="https://github.com/Lucas13032003">Lucas Víctor</a> e <a href="https://github.com/AnaBeatrizMassuh">Ana Beatriz W. Massuh</a>, 2025</sub>
